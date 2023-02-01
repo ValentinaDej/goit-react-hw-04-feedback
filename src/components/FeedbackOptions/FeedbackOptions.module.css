@@ -1,0 +1,11 @@
+.container {
+  display: inline-block;
+  padding-left: 30px;
+}
+
+.button {
+  width: 80px;
+  text-transform: capitalize;
+  padding: 3px;
+  cursor: pointer;
+}
